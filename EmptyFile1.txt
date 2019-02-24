@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is the first line in file on master branch
 This is the second line in file on master branch
+=======
+This line is the first line
+This line is the second line
+>>>>>>> NewBranch1Renamed
+=> OK Good, go ahead and merge them
