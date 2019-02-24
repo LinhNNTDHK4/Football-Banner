@@ -1,0 +1,2 @@
+This is the first line in file on master branch
+This is the second line in file on master branch
